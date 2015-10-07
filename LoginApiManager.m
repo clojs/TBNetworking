@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 sangalfred. All rights reserved.
 //
 
-#import "LoginApiManager.h"
+#import "{{arg0}}ApiManager.h"
 
 @interface {{arg0}}ApiManager() <TBAPIBaseManagerParamSourceDelegate>
 
