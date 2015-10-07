@@ -4,6 +4,12 @@
 https://github.com/teambition/TBNetworking
 
 
+## Install
+
+```
+git clone git@github.com:clojs/TBNetworking.git ~/.clo/TBNetworking
+```
+
 ## Usages
 
 ```
